@@ -1,5 +1,5 @@
 # AppTesis
-Una parte de mi tesis manual de la app que monitorea y controla el invernadero.
+Manual de la app que monitoréa y controla un invernadero automatizado.
 # Descripción de la aplicación: 
 La aplicación TecnoCultivo es una aplicación para smartphones con Android \
 Versión 4.0 o posterior que permite hacer un seguimiento de las acciones, como así también, 
