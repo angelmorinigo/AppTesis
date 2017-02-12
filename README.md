@@ -16,4 +16,4 @@ La primera interfaz que se muestra al ejecutar la aplicación es la de inicio de
 
 Una vez que se introduce los datos solicitados y hace click sobre el botón Ingresar, se comprueba si los datos que fueron introducidos en la aplicación móvil son correctos o no, y en el caso de que los datos sean incorrectos, se muestra en la aplicación los campos del formulario marcados en rojo para que de esta manera se pueda volver a introducir los datos en forma correcta. La Imagen 2 ilustra un inicio de sesión con datos incorrectos.
 
-![Descargar Manual completo.](https://github.com/angelmorinigo/AppTesis/blob/master/Manual.docx )
+![Descargar Manual completo.](https://github.com/angelmorinigo/AppTesis/raw/master/Manual.docx)
