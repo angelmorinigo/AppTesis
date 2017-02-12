@@ -11,3 +11,5 @@ para de esta manera tomar acciones sobre los servicios que se encuentran instala
 
 # Navegación de la aplicación:
 La primera interfaz que se muestra al ejecutar la aplicación es la de inicio de sesión que contiene un formulario donde se debe introducir datos de usuario y contraseña, para que se pueda validar el ingreso a la aplicación móvil. La Imagen 1 ilustra la primera interfaz. 
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
